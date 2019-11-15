@@ -1,0 +1,9 @@
+Command Line Interface (CLI), the opposite of Graphical User Interface (GUI), is a means of interacting with a computer program where the user (or client) issues commands to the program in the form of successive lines of text (command lines). The program which handles the interface is called a command-line interpreter or command-line processor (ex: Terminal in Unix based operating systems).
+Most operating systems implement a Command Line Interface in a Shell for interactive access to operating system functions or services. Such access was primarily provided to users by computer Terminals starting in the mid-1960s, and continued to be used throughout the 1970s and 1980s on VAX/VMS, Unix systems and personal computer systems including MS-DOS, CP/M and Apple DOS.
+
+
+Bash is a Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell. First released in 1989, it has been used widely as the default login shell for most Linux distributions and Apple's macOS Mojave and earlier versions.
+Bash is a command processor that typically runs in a text window where the user types commands that cause actions. Bash can also read and execute commands from a file, called a shell script. Like all Unix shells, it supports filename globbing (wildcard matching), piping, here documents, command substitution, variables, and control structures for condition-testing and iteration.
+
+
+Git is a distributed version-control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files. Its goals include speed, data integrity, and support for distributed, non-linear workflows.
