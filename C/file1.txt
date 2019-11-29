@@ -1,3 +1,0 @@
-Inventory
-100 Widget 0.29
-End of List
