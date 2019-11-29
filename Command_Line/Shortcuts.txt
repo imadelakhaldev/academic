@@ -1,3 +1,5 @@
+#### Here is a list of the most daily used terminal shortcuts with explinations. ####
+
 Ctrl + c = Kill the current process running in the Terminal.
 
 Ctrl + d = Close the current Terminal windows.
