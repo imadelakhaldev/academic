@@ -1,4 +1,4 @@
-#### Here is a list of the most daily used terminal shortcuts with explinations. ####
+#### Here is a list of the most daily used terminal shortcuts with explanation. ####
 
 Ctrl + c = Kill the current process running in the Terminal.
 

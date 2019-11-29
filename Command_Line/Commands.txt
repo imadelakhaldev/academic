@@ -1,5 +1,5 @@
 #### REF = https://www.cnblogs.com/peida/archive/2012/12/05/2803591.html ####
-#### Here is a list of the most daily used terminal commands with explinations and options. ####
+#### Here is a list of the most daily used terminal commands with explanation and options. ####
 
 ls = List current directory files and folders. -a = All, -l = Long, -h = Human Readable, -t = Sort by Modification Time.
 
