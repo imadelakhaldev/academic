@@ -13,7 +13,7 @@ int		main(void)
 	printf("Enter an Array of letters: ");
 	if(fgets(array, 20, stdin) == NULL) // Using FGETS instead of GETS (not safe) and SCANF (stops at whitespace).
 	{
-		printf("Invalid Input :(");
+		printf("Invalid Input :(\n");
 		exit(EXIT_FAILURE);
 	}
 	for(int	i = 0; get_letters(array)[i] != '\n'; i++)
