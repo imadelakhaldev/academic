@@ -1,0 +1,2 @@
+C is a low-level general-purpose programming language that relates closely to the way machines work and has been around for nearly 50 years.
+C has been used to write everything from operating systems to complex programs like the Python interpreter, Git, Oracle databases, and more.
