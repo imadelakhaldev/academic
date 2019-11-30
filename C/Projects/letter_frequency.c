@@ -23,7 +23,7 @@ int		main(void)
 }
 
 // Frequency Counter Function.
-int             letter_frequency(char *array, char letter)
+int		letter_frequency(char *array, char letter)
 {
 	int	freq = 0;
 
