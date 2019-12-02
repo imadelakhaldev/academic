@@ -25,7 +25,7 @@ int		main(void)
 	array[20] = '\0';
 	printf("After sorting: %s.\n", sort_array(array));
 
-	return 0;
+	return (0);
 }
 
 // Array Sorting Function.
