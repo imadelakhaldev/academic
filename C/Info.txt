@@ -1,2 +1,14 @@
+What is C?
 C is a low-level general-purpose programming language that relates closely to the way machines work and has been around for nearly 50 years.
 C has been used to write everything from operating systems to complex programs like the Python interpreter, Git, Oracle databases, and more.
+
+Why Learn C?
+It’s first question which comes in mind, when you start to learn C language. Why we are learning C and what are the benefits to learn C, why it is necessary to learn. Well, here are some points which may help you to clear your confusions about to learn C language.
+- C is a middle level language; it supports the features of low level and high level languages.
+- C is helpful to develop low level application that interacts with system hardware such as device drivers, firmware’s, operating system etc and high level applications (user level).
+- C programs are portable; you can easily run on different PC.
+- C supports modular programming style, by using this style you can divide your program (problem) into small pieces and integrating them, you can build a complete program.
+- C has only 32 keywords, so it is very easy to learn, understand and use.
+- C follows top to down programming approach.
+
+Read & understand summaries in the current directory, do some researchs, and practice example projects inside the Projects folder.
