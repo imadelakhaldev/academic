@@ -1,0 +1,8 @@
+ex00 = each_letter_frequency
+Write a program that counts frequency of each letter in the string (string consists lowercase letters only).
+
+ex01 = sort_012_array
+Given an array consisting only 0's, 1's and 2's. Give an algorithm for sorting the array in O(n) time complexity ( in the sorted array, 0's will be at starting ,then the 1's & then the 2's).
+
+ex02 = is_anagram
+Given two strings, check whether two given strings are anagram of each other or not. An anagram of a string is another string that contains same characters, only the order of characters can be different.
